@@ -1,0 +1,48 @@
+Comandante Espora;Ministro Pistarini;310;1;{Aerolineas-100}
+Comandante Espora;Pucon;299;1;{Aerolineas-100}
+Comandante Espora;Jorge Newbery;345;1;{Aerolineas-100}
+Comandante Espora;Comodoro Benitez;450;1;{Aerolineas-100}
+Comandante Espora;La Araucania;350;1;{Aerolineas-100}
+Ministro Pistarini;Pucon;170;0;{United Airlines-120}
+Ministro Pistarini;Comandante Espora;310;1;{Aerolineas-100}
+Ministro Pistarini;Francisco Gabrielli;415;0;{United Airlines-120}
+Pucon;Ministro Pistarini;170;0;{United Airlines-120}
+Pucon;Comandante Espora;299;1;{Aerolineas-100}
+Pucon;Francisco Gabrielli;317;1;{Aerolineas-100}
+Pucon;Jorge Newbery;190;1;{Aerolineas-100}
+Jorge Newbery;Pucon;190;1;{Aerolineas-100}
+Jorge Newbery;Comandante Espora;345;1;{Aerolineas-100}
+Jorge Newbery;Comodoro Benitez;180;1;{Aerolineas-100}
+Jorge Newbery;Francisco Gabrielli;330;1;{Aerolineas-100}
+Jorge Newbery;Jorge Chavez;160;1;{Aerolineas-100}
+Comodoro Benitez;Jorge Newbery;180;1;{Aerolineas-100}
+Comodoro Benitez;Comandante Espora;450;1;{Aerolineas-100}
+Comodoro Benitez;La Araucania;230;1;{Aerolineas-100}
+Comodoro Benitez;Campinas;255;1;{Aerolineas-100}
+Comodoro Benitez;Armando Tola;267;1;{Aerolineas-100}
+Comodoro Benitez;Jorge Chavez;314;1;{Aerolineas-100}
+La Araucania;Comodoro Benitez;230;1;{Aerolineas-100}
+La Araucania;Comandante Espora;350;1;{Aerolineas-100}
+La Araucania;Campinas;312;1;{Aerolineas-100}
+Campinas;La Araucania;312;1;{Aerolineas-100}
+Campinas;Comodoro Benitez;255;1;{Aerolineas-100}
+Campinas;Armando Tola;280;1;{Aerolineas-100}
+Campinas;Tancredo Neves;450;1;{Aerolineas-100}
+Armando Tola;Comodoro Benitez;267;1;{Aerolineas-100}
+Armando Tola;Campinas;280;1;{Aerolineas-100}
+Armando Tola;Jorge Chavez;198;1;{Aerolineas-100}
+Armando Tola;Tancredo Neves;298;1;{Aerolineas-100}
+Tancredo Neves;Armando Tola;298;1;{Aerolineas-100}
+Tancredo Neves;Campinas;450;1;{Aerolineas-100}
+Tancredo Neves;Jorge Chavez;275;1;{Aerolineas-100}
+Tancredo Neves;Francisco Gabrielli;300;1;{Aerolineas-100}
+Francisco Gabrielli;Tancredo Neves;300;1;{Aerolineas-100}
+Francisco Gabrielli;Jorge Chavez;230;1;{Aerolineas-100}
+Francisco Gabrielli;Jorge Newbery;330;1;{Aerolineas-100}
+Francisco Gabrielli;Pucon;317;1;{Aerolineas-100}
+Francisco Gabrielli;Ministro Pistarini;415;0;{United Airlines-120}
+Jorge Chavez;Armando Tola;198;1;{Aerolineas-100}
+Jorge Chavez;Tancredo Neves;275;1;{Aerolineas-100}
+Jorge Chavez;Francisco Gabrielli;230;1;{Aerolineas-100}
+Jorge Chavez;Comodoro Benitez;314;1;{Aerolineas-100}
+Jorge Chavez;Jorge Newbery;160;1;{Aerolineas-100}
